@@ -1,0 +1,10 @@
+Package: IA
+Type: Package
+Title: Indicator Analysis Package 
+Version: 0.1.0
+Author: Jessica Hetzer
+Maintainer: The package maintainer <jessica.hetzer@senckenberg.de>
+Description: The IA (Indicator Analysis) package provides tools for the systematic and standardized display of global indicators, specifically those outlined in the IPBES Global Assessment Chapter 2.2 – Supplementary Material: Indicators of Status & Trends in Nature. It allows users to access and recreate these indicators in an open-access, reproducible manner, facilitating analysis and comparisons across different datasets. Note: IPBES is not responsible for the development or maintenance of this package, nor does it endorse the package or its outputs.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
