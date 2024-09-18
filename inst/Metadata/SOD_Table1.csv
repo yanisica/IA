@@ -1,0 +1,77 @@
+Indicator	Reference	Core/Highlight/Other	Whole or Part of indicator	EBV class	EBV scale	Representative/fundamental	Sensitive	Underpins NCP	Pristine value	Degraded value	Percentage now	Decadal rate	Years	N	N since 1970
+Aboveground biomass	Liu et al. (2015)	O	W	Ecosystem structure		Y	N	Y	770.90	0	49.18	-0.09	1993-2012	20	20
+Biodiversity Habitat Index (forest biomes)	Hoskins et al. (2018)	C	W	Ecosystem structure		Y	N	N	1.00	0	25.89	-6.10	2000-2014	7	7
+Coastal carbon-rich habitat	Ocean Health Index	O	W	Ecosystem structure		Y	Y	Y	NA	0	NA	-5.83	1980-2016	2	2
+Coastal protection habitats	Ocean Health Index	O	W	Ecosystem structure		Y	Y	Y	NA	0	NA	-3.51	1980-2017	2	2
+Extent of forests (FAO)	FAO (2015)	C	W	Ecosystem structure		N	N	Y	0.44	0	70.12	-1.24	1990-2015	5	5
+Extent of forests (remote-sensing)	Hansen et al. (2013)	C	W	Ecosystem structure		N	N	Y	59105082.23	0	30.22	-6.41	2000-2012	2	2
+Extent of intact forest landscapes	Potapov et al. (2017)	O	W	Ecosystem structure		N	Y	N	59105082.00	0	20.10	-5.52	2000-2013	2	2
+Extent of remaining wilderness	Watson et al. (2016)	O	W	Ecosystem structure		N	Y	N	129741000.00	0	23.20	-4.49	1993-2015	2	2
+Fraction of ocean not fished	Kroodsma et al. (2018)	O	W	Ecosystem structure		Y	Y	N	100.00	0	45.00	NA	2016-2016	1	1
+Land not cultivated or urban (global)	ESA (2017)	O	W	Ecosystem structure		Y	N	N	131.57	0	76.74	-0.57	1992-2015	24	24
+Land not cultivated or urban (UoA: desert & dryland)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	27.89	0	91.98	-0.19	1992-2015	24	24
+Land not cultivated or urban (UoA: Mediterranean forest)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	3.22	0	49.29	-0.53	1992-2015	24	24
+Land not cultivated or urban (UoA: temperate forest)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	32.04	0	74.26	-0.23	1992-2015	24	24
+Land not cultivated or urban (UoA: temperate grassland)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	11.19	0	43.10	-2.55	1992-2015	24	24
+Land not cultivated or urban (UoA: tropical forest)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	23.49	0	70.35	-1.34	1992-2015	24	24
+Land not cultivated or urban (UoA: tropical grassland)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	20.18	0	77.95	-0.70	1992-2015	24	24
+Land not cultivated or urban (UoA: tundra & mountains)	ESA (2017)	O	P	Ecosystem structure		Y	N	N	13.55	0	94.78	-0.03	1992-2015	24	24
+Mangrove forest cover (km2)	Hamilton & Casey (2016)	O	W	Ecosystem structure		Y	Y	N	346432.04	0	23.53	-1.73	2000-2014	15	15
+Natural habitat extent	FAO	O	W	Ecosystem structure		Y	N	N	100.00	0	62.32	-1.00	1961-2011	51	42
+Percentage live coral cover	Tittensor et al. (2014)	O	W	Ecosystem structure		Y	Y	N	100.00	0	31.42	-4.01	1972-2016	41	41
+Remaining primary vegetation	Hurtt et al. (in press)	O	W	Ecosystem structure		Y	N	N	100.00	0	38.57	-4.12	850-2015	1166	46
+Soil organic carbon	Stoorvogel et al. (2017)	O	W	Ecosystem structure		Y	N	N	2200.00	0	92.00	NA	2010-2010	1	1
+Wetland Extent Trends Index	Dixon et al. (2016)	H	W	Ecosystem structure		Y	Y	N	NA	0	NA	-7.74	1970-2015	46	46
+Biological pump efficiency	Cael et al. (2017)	O	W	Ecosystem function		Y	N	N	NA	0	NA	-0.47	1982-2014	2	2
+Biomass turnover rate	Erb et al. (2016)	O	W	Ecosystem function		Y	N	N	0.07	0	194.37	NA	2000-2000	1	1
+NPP remaining in ecosystems	Krausmann et al. (2013)	O	W	Ecosystem function		Y	N	N	52221669.00	0	86.22	1.26	1910-2005	9	5
+Ocean Net Primary Productivity	Behrenfeld et al. (2006)	O	W	Ecosystem function		Y	N	Y	NA	0	NA	4.71	1998-2007	10	10
+Oceanic carbon sequestration	Le Quere et al. (2018)	O	W	Ecosystem function		Y	N	Y	NA	NA	NA	28.78	1970-2010	41	41
+Terrestrial carbon sequestration	Le Quere et al. (2018)	O	W	Ecosystem function		Y	N	Y	NA	NA	NA	22.04	1951-2015	65	46
+Terrestrial NPP (TRENDY)	Ichii et al. ?	O	W	Ecosystem function		Y	N	N	52.22	0	135.23	2.58	1951-2015	65	46
+Terrestrial NPP (Zhao & Running 2010)	Zhao & Running (2010)	O	W	Ecosystem function		Y	N	Y	NA	0	NA	0.59	2000-2015	16	16
+Biodiversity Intactness Index (overall)	Hill et al. (2018)	C	W	Community composition	1. Local	Y	N	N	1.00	0	78.59	-0.83	900-2014	53	18
+Biodiversity Intactness Index (tropical forests)	De Palma et al. (2018)	C	P	Community composition	1. Local	Y	N	N	1.00	0	58.46	-3.04	2001-2012	12	12
+Local species richness (BioTime)	Dornelas et al. (2014)	H	W	Community composition	1. Local	Y	N	N	NA	0	NA	1.22	1960-2015	12	10
+Local species richness (PREDICTS)	Hill et al. (2018)	C	W	Community composition	1. Local	Y	N	N	1.00	0	73.56	-1.05	900-2014	53	18
+Mean Species Abundance Index	Alkemade et al. (2009) [method]	H	W	Community composition	1. Local	Y	N	N	100.00	0	66.43	-2.82	0-2010	8	2
+All-taxon grid-cell species richness (AIM)	Kim et al. (2018)	O	W	Community composition	2. Regional	Y	N	N	NA	0	NA	NA	1900-2015	2	1
+Amphibian grid-cell species richness (AIM)	Kim et al. (2018)	O	P	Community composition	2. Regional	Y	Y	N	NA	0	NA	NA	1900-2015	2	1
+Bird grid-cell species richness (AIM)	Kim et al. (2018)	O	P	Community composition	2. Regional	Y	N	N	NA	0	NA	NA	1900-2015	2	1
+Cumulative introduced invasive aliens	Sarah Darrah Ch3	H	W	Community composition	2. Regional	Y	N	N	0.00	NA	NA	11.43	1500-2012	247	43
+Cumulative number of alien species	Seebens et al. (2017)	O	W	Community composition	2. Regional	Y	N	N	0.00	NA	NA	13.15	1970-2005	36	36
+Functional intactness (Madingley)	Kim et al. (2018)	O	W	Community composition	2. Regional	Y	N	N	NA	0	NA	-0.38	1915-2015	21	10
+Mammal grid-cell species richness (AIM)	Kim et al. (2018)	O	P	Community composition	2. Regional	Y	N	N	NA	0	NA	NA	1900-2015	2	1
+Mean regional bird richness (cSAR)	Kim et al. (2018)	O	W	Community composition	2. Regional	Y	N	N	NA	0	NA	0.14	1910-2015	12	6
+Mean regional forest-specialist bird richness (cSAR)	Kim et al. (2018)	O	P	Community composition	2. Regional	N	Y	N	NA	0	NA	-0.39	1910-2015	12	6
+Plant grid-cell species richness (AIM)	Kim et al. (2018)	O	P	Community composition	2. Regional	Y	N	N	NA	0	NA	NA	1900-2015	2	1
+Reptile grid-cell species richness (AIM)	Kim et al. (2018)	O	P	Community composition	2. Regional	Y	N	N	NA	0	NA	NA	1900-2015	2	1
+Invertebrate abundance [placeholder]	Dirzo et al. (2014)	O	W	Species populations	1. Abundance	Y	N	N	NA	0	NA	-11.25	1970-2010	2	2
+Living Planet Index	Collen et al. (2009)	H	W	Species populations	1. Abundance	Y	N	N	NA	0	NA	-13.44	1970-2012	43	43
+Percentage of fish stocks biologically sustainable	FAO (2016)	C	W	Species populations	1. Abundance	N	N	Y	100.00	0	68.86	-6.23	1974-2013	19	19
+Predatory fish biomass	Christensen et al. (2014)	O	W	Species populations	1. Abundance	N	Y	Y	NA	0	NA	-14.12	1880-2010	4	3
+Prey fish biomass	Christensen et al. (2014)	O	W	Species populations	1. Abundance	N	N	N	NA	0	NA	10.13	1880-2010	4	3
+Wild Bird Index (habitat specialists)	Gregory & van Strien (2010)	O	P	Species populations	1. Abundance	N	Y	N	NA	0	NA	-9.04	1968-2014	47	45
+Extent of suitable habitat [placeholder]	Visconti et al. (2016) [method]	O	W	Species populations	2. Range	Y	N	N	NA	0	NA	-5.50	1970-2010	2	2
+Mammalian range size	Faurby & Svenning (2015)	O	W	Species populations	2. Range	Y	N	N	1298365.00	0	82.65	NA	2008-2008	1	1
+Megafaunal range size	Faurby & Svenning (2015)	O	P	Species populations	2. Range	N	Y	N	242960.00	0	27.70	NA	2008-2008	1	1
+Species Habitat Index	Jetz et al. (2012)	C	W	Species populations	2. Range	Y	N	N	NA	0	NA	-1.03	2001-2014	14	14
+Global bird species richness (cSAR)	Kim et al. (2018)	O	W	Species populations	3. Existence	Y	N	N	100.00	0	97.59	-0.12	1900-2015	13	6
+Global forest-specialist bird species richness (cSAR)	Kim et al. (2018)	O	P	Species populations	3. Existence	N	Y	N	100.00	0	94.88	-0.32	1900-2015	13	6
+Global mammal & bird species remaning	IUCN (2017)	H	W	Species populations	3. Existence	Y	N	N	16796.00	0	98.60	-0.06	1500-2017	10	3
+Global plant species remaining (BILBI)	Kim et al. (2018)	C	W	Species populations	3. Existence	Y	N	N	1.00	0	95.74	NA	1900-2015	2	1
+Red List Index (forest specialists)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	Y	N	1.00	0	72.01	-1.08	1988-2016	8	8
+Red List Index (impacts of fisheries)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	N	1.00	0	88.32	-0.03	1988-2016	8	8
+Red List Index (impacts of invasive alien species)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	N	1.00	0	83.65	-0.29	1988-2016	8	8
+Red List Index (impacts of pollution)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	N	1.00	0	83.88	-0.13	1986-2016	31	31
+Red List Index (impacts of utilisation)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	Y	1.00	0	83.84	-0.20	1986-2016	31	31
+Red List Index (internationally traded species)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	Y	1.00	0	93.27	-0.28	1988-2016	8	8
+Red List Index (overall)	Butchart et al. (2007)	C	W	Species populations	3. Existence	Y	N	N	1.00	0	74.57	-4.25	1994-2016	7	7
+Red List Index (pollinators)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	Y	1.00	0	90.17	-0.47	1988-2016	8	8
+Red List Index (species used in food & medicine)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	Y	1.00	0	80.39	-1.70	1988-2012	6	6
+Red List Index (wild relatives of farmed & domesticated species)	Butchart et al. (2007)	C	P	Species populations	3. Existence	N	N	Y	1.00	0	77.51	-0.80	1988-2016	8	8
+Leaf Area Index	Liu et al. (2010)	O	W	Species traits		Y	N	N	NA	0	NA	1.15	1982-2009	2	2
+Mammalian body mass	Santini et al. (2017)	O	W	Species traits		Y	Y	N	677.03	0	81.70	NA	2009-2009	1	1
+Marine Trophic Index	Kleisner et al. (2014)	C	W	Species traits		N	N	Y	NA	1	NA	-0.93	1956-2014	59	45
+Mean functional diversity (Madingley)	Kim et al. (2018)	O	W	Species traits		Y	N	N	NA	0	NA	-0.21	1901-2015	22	10
+Proportion of predatory fish [placeholder]	Kleisner et al. (2015)	O	W	Species traits		N	Y	Y	NA	0	NA	-10.88	1988-2010	19	19
