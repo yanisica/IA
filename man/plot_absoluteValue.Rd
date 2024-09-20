@@ -2,19 +2,21 @@
 % Please edit documentation in R/plot_absoluteValue.R
 \name{plot_absoluteValue}
 \alias{plot_absoluteValue}
-\title{Print Absolute values of Indicator over Time}
+\title{Plot Absolute Values of Indicator Over Time}
 \usage{
-plot_absoluteValue(indicatorFileName)
+plot_absoluteValue(indicatorName)
 }
 \arguments{
-\item{The}{filename of the indicator that should be displayed}
+\item{indicatorName}{A character string representing the full name of the indicator to be plotted. To view a list of available indicators, use the `print_indicatorNames()` function.}
 }
 \value{
-figure plot with x-axes "year"  and y-axes "raw data"
+A ggplot figure with "Year" on the x-axis and "Raw value" on the y-axis, representing the absolute values of the selected indicator.
 }
 \description{
-Print Absolute values of Indicator over Time
+This function generates a plot showing the absolute values of a given indicator over time, with years on the x-axis and raw indicator values on the y-axis.
 }
 \examples{
+# Example: Plot the absolute values of the Aboveground biomass indicator
 plot_absoluteValue("Aboveground_biomass_PgC.csv")
+
 }

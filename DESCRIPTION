@@ -10,5 +10,7 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     devtools,
-    ggplot2
+    ggplot2,
+    gridExtra,
+    mgcv
 RoxygenNote: 7.3.2

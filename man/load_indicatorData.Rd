@@ -2,26 +2,26 @@
 % Please edit documentation in R/load_indicatorData.R
 \name{load_indicatorData}
 \alias{load_indicatorData}
-\title{Load Annual Global Data for Indicators}
+\title{Load Indicator Data}
 \usage{
-load_indicatorData(dataset.name)
+load_indicatorData(indicatorName)
+}
+\arguments{
+\item{indicatorName}{A character string representing the full name of the indicator to be loaded. To view a list of available indicators, use the `print_indicatorNames()` function.}
 }
 \value{
-A data frame containing year and global indicator value
+A data frame containing the year and corresponding global indicator values.
 }
 \description{
-This function loads a the global annual indicator data called by its name
-}
-\details{
-The data is sourced from the supplementary material from the *IPBES Global Assessment Chapter 2.2 – Supplementary Material: Indicators of Status & Trends in Nature*.
+This function loads indicator data included in the package, located in the `/inst/Global_IA_Data` directory. The data consists of global averages over time. Users can specify the indicator by its full name using the `indicatorName` parameter.
 }
 \examples{
-# Load the metadata for the indicators
+# Load data for a specific indicator
 dat <- load_indicatorData("Aboveground_biomass_PgC.csv")
 head(dat)
 plot(dat)
 
 }
 \references{
-IPBES (2019). *Global Assessment Chapter 2.2 – Supplementary Material: Indicators of Status & Trends in Nature*.
+Data sourced from IPBES (2019). *Global Assessment Chapter 2.2 – Supplementary Material: Indicators of Status & Trends in Nature*.
 }

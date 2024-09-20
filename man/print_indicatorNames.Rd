@@ -2,14 +2,18 @@
 % Please edit documentation in R/print_indicatorNames.R
 \name{print_indicatorNames}
 \alias{print_indicatorNames}
-\title{Display Names of Indicators}
+\title{Display Long Names of Available Indicators}
 \usage{
 print_indicatorNames()
 }
+\value{
+A sorted list of unique long names of available indicators.
+}
 \description{
-This function prints the long names of all indicator data sets available in the IA package
+This function prints the long names of all available indicator data sets included in the IA package.
 }
 \examples{
+# Example: Print the long names of available indicators
 print_indicatorNames()
 
 }

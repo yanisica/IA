@@ -2,14 +2,18 @@
 % Please edit documentation in R/print_indicatorFileNames.R
 \name{print_indicatorFileNames}
 \alias{print_indicatorFileNames}
-\title{Display Names of Indicators}
+\title{Display Available Indicator File Names}
 \usage{
 print_indicatorFileNames()
 }
+\value{
+A sorted vector of unique file names for the available indicator data sets.
+}
 \description{
-This function prints the file names of all indicator data sets available in the IA package
+This function prints the file names of all available indicator data sets in the IA package. These files are located in the `inst/Global_IA_Data` directory. The function filters out superseded indicators and those without valid file names, displaying only the active and available ones.
 }
 \examples{
+# Example: Print the file names of available indicators
 print_indicatorFileNames()
 
 }

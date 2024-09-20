@@ -2,23 +2,20 @@
 % Please edit documentation in R/load_indicatorSummary.R
 \name{load_indicatorSummary}
 \alias{load_indicatorSummary}
-\title{Load Metadata for Indicators}
+\title{Load Comprehensive Summary of Indicator Metadata}
 \usage{
 load_indicatorSummary()
 }
 \value{
-A data frame containing the metadata of indicators, including information such as indicator name, description, data sources, and other relevant attributes.
+A data frame containing comprehensive metadata for the available indicators, including details on the indicator's name, data sources, time span, EBV class, and other relevant attributes.
 }
 \description{
-This function loads all the metadata of the indicators presented in currently available in the IA package.
-}
-\details{
-The metadata is sourced from the supplementary material from the *IPBES Global Assessment Chapter 2.2 – Supplementary Material: Indicators of Status & Trends in Nature* (Table 1, section "Summary of indicators").
+This function loads a detailed overview of the metadata for indicators available in the IA package. The summary includes key information such as the indicator name, data sources, time span covered, EBV class, and other relevant attributes.
 }
 \examples{
-# Load the metadata for the indicators
-indicator_metadata <- load_indicatorSummary()
-head(indicator_metadata)
+# Load the comprehensive metadata for the indicators
+Tab1.dat <- load_indicatorSummary()
+head(Tab1.dat)
 
 }
 \references{
